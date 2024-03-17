@@ -29,8 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto para conhecer um pouco sobre mim.
-
+Projeto para aprimorar os conhecimento em React.
+ 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
